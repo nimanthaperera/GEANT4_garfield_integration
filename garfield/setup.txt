@@ -1,0 +1,6 @@
+Have to run cmsenvv
+
+which is
+
+alias cmsenvv='cd /afs/cern.ch/user/n/nperera/CMSSW_9_3_3/src && cmsenv && cd -'
+

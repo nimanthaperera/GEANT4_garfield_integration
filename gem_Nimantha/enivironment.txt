@@ -1,0 +1,11 @@
+Compiling on lxplus
+
+lxplus771.cern.ch, CentOS Linux release 7.9.2009 (Core)
+
+Setting the environment
+
+source /cvmfs/sft.cern.ch/lcg/contrib/gcc/8/x86_64-centos7/setup.sh
+source /cvmfs/geant4.cern.ch/geant4/10.7.p02/x86_64-centos7-gcc8-optdeb/CMake-setup.sh
+export CXX=/cvmfs/sft.cern.ch/lcg/contrib/gcc/8/x86_64-centos7/bin/g++
+export CC=/cvmfs/sft.cern.ch/lcg/contrib/gcc/8/x86_64-centos7/bin/gcc
+

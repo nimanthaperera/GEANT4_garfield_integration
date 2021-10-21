@@ -1,0 +1,4 @@
+/afs/cern.ch/work/n/nperera/g4_garfiled/gem_Nimantha/build/CMakeFiles/rebuild_cache.dir
+/afs/cern.ch/work/n/nperera/g4_garfiled/gem_Nimantha/build/CMakeFiles/edit_cache.dir
+/afs/cern.ch/work/n/nperera/g4_garfiled/gem_Nimantha/build/CMakeFiles/Simulation.dir
+/afs/cern.ch/work/n/nperera/g4_garfiled/gem_Nimantha/build/CMakeFiles/sim.dir

@@ -1,0 +1,8 @@
+#/run/numberOfThreads 4 
+/run/initialize
+#/gun/momentumAmp 0.5 GeV
+/run/beamOn 1000
+#/gun/momentumAmp 1.0 GeV
+#/run/beamOn 100
+#/gun/momentumAmp 5.0 GeV
+#/run/beamOn 100
